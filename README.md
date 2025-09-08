@@ -6,8 +6,8 @@ It is built using **HTML, CSS, and JavaScript**, with animations powered by **Sc
 ---
 
 ## 📸 Demo
-🔗 **Live Website:** [Your Deployment Link Here](https://yourusername.github.io/portfolio/)  
-🔗 **GitHub Repo:** [Portfolio Repository](https://github.com/Shivam05933/My-Portfolio) 
+🔗 **Live Website:** [Your Deployment Link Here](https://shivam-v.vercel.app)  
+🔗 **GitHub Repo:** [Portfolio Repository](https://github.com/Shivam05933/My-Portfolio)
 
 ---
 
